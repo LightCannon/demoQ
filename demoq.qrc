@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="demoQ">
+    <file>Resources/images/mainicon.ico</file>
+    <file>Resources/images/tile0.png</file>
+    <file>Resources/images/tile1.png</file>
+    <file>Resources/images/tile2.png</file>
+    <file>Resources/images/tile3.png</file>
+    <file>Resources/images/tile4.png</file>
+    <file>Resources/images/tile5.png</file>
+    <file>Resources/images/tile6.png</file>
+    <file>Resources/images/tile7.png</file>
+    <file>Resources/images/tile8.png</file>
+    <file>Resources/images/tile9.png</file>
+    <file>Resources/images/tile10.png</file>
+    <file>Resources/images/tile11.png</file>
+    <file>Resources/images/tile12.png</file>
+    <file>Resources/images/tile13.png</file>
+    <file>Resources/images/tile14.png</file>
+    <file>Resources/images/tile15.png</file>
+    <file>Resources/images/tile16.png</file>
+    <file>Resources/images/tile17.png</file>
+    <file>Resources/images/tile18.png</file>
+    <file>Resources/images/tile19.png</file>
+    <file>Resources/images/tile20.png</file>
+    <file>Resources/images/tile21.png</file>
+    <file>Resources/images/tile22.png</file>
+    <file>Resources/images/tile23.png</file>
+    <file>Resources/images/tile24.png</file>
+    <file>Resources/images/tile25.png</file>
+    <file>Resources/images/tile26.png</file>
+    <file>Resources/images/tile27.png</file>
+    <file>Resources/images/loading.gif</file>
+    <file>Resources/images/QUWI.png</file>
+  </qresource>
+</RCC>
