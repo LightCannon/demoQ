@@ -5,7 +5,7 @@
 #include <QtCore\qjsondocument.h>
 #include <QtCore\qjsonobject.h>
 
-#include "ui_demoqmain.h"
+#include "GeneratedFiles\ui_demoqmain.h"
 
 class demoQ_main : public QMainWindow
 {
